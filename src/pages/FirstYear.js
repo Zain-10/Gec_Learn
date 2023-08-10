@@ -12,7 +12,7 @@ export default function FirstYear() {
     <div>
       <div className={styles.main_container}>
         <div className={styles.container}>
-          <div className="absolute -ml-52 mt-9 font-bold text-2xl">2st Year</div>
+          <div className="absolute -ml-52 mt-9 font-bold text-2xl">1st Year</div>
           <div className="mt-3">
             <Image src="/assets/bg-image.jpg" width="360" height="200" className="rounded-3xl shadow-xl"></Image>
           </div>

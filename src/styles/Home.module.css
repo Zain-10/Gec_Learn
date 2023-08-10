@@ -1,0 +1,121 @@
+.main_container{
+  display: flex;
+  height: 100dvh;
+  justify-content: center;
+}
+
+.container{
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 500px;
+  flex-direction: column;
+}
+
+.button_17 {
+  align-items: center;
+  appearance: none;
+  background-color: rgb(255, 77, 50);
+  border-radius: 15px;
+  border-style: none;
+  box-shadow: rgba(24, 22, 22, 0.2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
+  box-sizing: border-box;
+  color: #e8f5ff;
+  cursor: pointer;
+  display: inline-flex;
+  fill: currentcolor;
+  font-family: "Google Sans",Roboto,Arial,sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: .25px;
+  line-height: normal;
+  max-width: 100%;
+  overflow: visible;
+  padding: 2px 24px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transition: box-shadow 280ms cubic-bezier(.4, 0, .2, 1),opacity 15ms linear 30ms,transform 270ms cubic-bezier(0, 0, .2, 1) 0ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 70%;
+  will-change: transform,opacity;
+  z-index: 0;
+  margin-top: 30px;
+
+}
+
+.button_17:hover {
+  background: #F6F9FE;
+  color: #174ea6;
+}
+
+.button_17:active {
+  box-shadow: 0 4px 4px 0 rgb(60 64 67 / 30%), 0 8px 12px 6px rgb(60 64 67 / 15%);
+  outline: none;
+}
+
+.button_17:focus {
+  outline: none;
+  border: 2px solid #4285f4;
+}
+
+.button_17:not(:disabled) {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.button_17:not(:disabled):hover {
+  box-shadow: rgba(60, 64, 67, .3) 0 2px 3px 0, rgba(60, 64, 67, .15) 0 6px 10px 4px;
+}
+
+.button_17:not(:disabled):focus {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.button_17:not(:disabled):active {
+  box-shadow: rgba(60, 64, 67, .3) 0 4px 4px 0, rgba(60, 64, 67, .15) 0 8px 12px 6px;
+}
+
+.button_17:disabled {
+  box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
+}
+
+.heading{
+  margin-top: 50px;
+  margin-bottom: 140px;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.footer{
+  margin-top: 180px;
+  width: 100%;
+  background-color: rgb(19, 164, 19);
+  height: 85px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading_main{
+  margin-top: 20px;
+  margin-bottom: 25px;
+  font-weight: bold;
+  font-size: 33px;
+}
+
+.footer_main{
+  margin-top: 15px;
+  width: 100%;
+  background-color: rgb(19, 164, 19);
+  height: 85px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.dropdowns{
+  
+}

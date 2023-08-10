@@ -59,7 +59,7 @@ export default function Sem2() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtu.be/6VAz5muYYFM" target='_blank'>MODULE 3</a>
+                  <a href="https://youtu.be/6VAz5muYYFM" target='_blank' rel="noreferrer">MODULE 3</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}

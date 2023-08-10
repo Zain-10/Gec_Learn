@@ -22,14 +22,14 @@ export default function Sem1() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/RVSMathsAcademy" target='_blank'>RVS MATHS ACADEMY</a>
+                  <a href="https://youtube.com/c/RVSMathsAcademy" target='_blank' rel="noreferrer">RVS MATHS ACADEMY</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/BTechMathematics" target='_blank'>BTECH MATHEMATICS</a>
+                  <a href="https://youtube.com/c/BTechMathematics" target='_blank' rel="noreferrer">BTECH MATHEMATICS</a>
                 </Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
@@ -44,14 +44,14 @@ export default function Sem1() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/SajeevMohan" target='_blank'>SAJEEV MOHAN 4 PHYSICS </a>
+                  <a href="https://youtube.com/c/SajeevMohan" target='_blank' rel="noreferrer">SAJEEV MOHAN 4 PHYSICS </a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UC97ibScoiBRlM1fahAmZW4g" target='_blank'>TARGET KTU</a>
+                  <a href="https://youtube.com/channel/UC97ibScoiBRlM1fahAmZW4g" target='_blank' rel="noreferrer">TARGET KTU</a>
                 </Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
@@ -67,21 +67,21 @@ export default function Sem1() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UChqeXU2cm5byUJlWtkUIJXQ" target='_blank'>ANJANA GOPINADH</a>
+                  <a href="https://youtube.com/channel/UChqeXU2cm5byUJlWtkUIJXQ" target='_blank' rel="noreferrer">ANJANA GOPINADH</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UCptJp4seC8ScP2vxqYoWEXQ" target='_blank'>CHEMISTRY TOPPER</a>
+                  <a href="https://youtube.com/channel/UCptJp4seC8ScP2vxqYoWEXQ" target='_blank' rel="noreferrer">CHEMISTRY TOPPER</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UCXhr4X9u8FN6J55vWyqd2TQ" target='_blank'>SIMPLE LEARNING ACADEMY</a>
+                  <a href="https://youtube.com/channel/UCXhr4X9u8FN6J55vWyqd2TQ" target='_blank' rel="noreferrer">SIMPLE LEARNING ACADEMY</a>
                 </Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
@@ -97,21 +97,21 @@ export default function Sem1() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/LETSDISCUSS1" target='_blank'>LET S DISCUSS</a>
+                  <a href="https://youtube.com/c/LETSDISCUSS1" target='_blank' rel="noreferrer">LET S DISCUSS</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UCei-KPCET7sFlvKGeGdPLig" target='_blank'>LEARN WITH JOSY VAIDYAN</a>
+                  <a href="https://youtube.com/channel/UCei-KPCET7sFlvKGeGdPLig" target='_blank' rel="noreferrer">LEARN WITH JOSY VAIDYAN</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/KrishnenduSivadas" target='_blank'>KRISHNENDHU SIVADAS</a>
+                  <a href="https://youtube.com/c/KrishnenduSivadas" target='_blank'rel="noreferrer">KRISHNENDHU SIVADAS</a>
                 </Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
@@ -127,21 +127,21 @@ export default function Sem1() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UCJqt0z8fJviKtQU0EylY_xQ" target='_blank'>ENGINEERING GRAPHICS BY NITHIN</a>
+                  <a href="https://youtube.com/channel/UCJqt0z8fJviKtQU0EylY_xQ" target='_blank' rel="noreferrer">ENGINEERING GRAPHICS BY NITHIN</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/TechSagacity" target='_blank'>TECH SAGACATY</a>
+                  <a href="https://youtube.com/c/TechSagacity" target='_blank'rel="noreferrer">TECH SAGACATY</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UC2bMBiAKrOkxZcS9ErDHJjw" target='_blank'>GRAPHICS ZONE 2021</a>
+                  <a href="https://youtube.com/channel/UC2bMBiAKrOkxZcS9ErDHJjw" target='_blank' rel="noreferrer">GRAPHICS ZONE 2021</a>
                 </Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
@@ -157,28 +157,28 @@ export default function Sem1() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/VISHNUSHAJIKANNETH" target='_blank'>IGNITED VISHNU SHAJI KANEETH</a>
+                  <a href="https://youtube.com/c/VISHNUSHAJIKANNETH" target='_blank' rel="noreferrer">IGNITED VISHNU SHAJI KANEETH</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UC7cLFGuJ9nocb-aYH-jOr0Q" target='_blank'>MECH CIV</a>
+                  <a href="https://youtube.com/channel/UC7cLFGuJ9nocb-aYH-jOr0Q" target='_blank' rel="noreferrer">MECH CIV</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/NehaShanBtechLectures" target='_blank'>STUDY WITH NEHA SHAN (BCE)</a>
+                  <a href="https://youtube.com/c/NehaShanBtechLectures" target='_blank' rel="noreferrer">STUDY WITH NEHA SHAN (BCE)</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UCpZc3h96dUesE_JjX9hN6zA" target='_blank'>COURTEOUS CONCEPTS</a>
+                  <a href="https://youtube.com/channel/UCpZc3h96dUesE_JjX9hN6zA" target='_blank' rel="noreferrer">COURTEOUS CONCEPTS</a>
                 </Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
@@ -194,28 +194,28 @@ export default function Sem1() {
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/c/ShastraTechnicalInstitute" target='_blank'>SHASTRA TECHNICAL INSTITUTE (BEC)</a>
+                  <a href="https://youtube.com/c/ShastraTechnicalInstitute" target='_blank' rel="noreferrer">SHASTRA TECHNICAL INSTITUTE (BEC)</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UC7cOwgD4GPyzoJHItVXiRYQ" target='_blank'>KTU ECE CLASS ROOM (BEE)</a>
+                  <a href="https://youtube.com/channel/UC7cOwgD4GPyzoJHItVXiRYQ" target='_blank' rel="noreferrer">KTU ECE CLASS ROOM (BEE)</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UCy0fLJ_x2C9LKi9vIqbMOAA" target='_blank'>SREENATH VADASSERY(BEE)</a>
+                  <a href="https://youtube.com/channel/UCy0fLJ_x2C9LKi9vIqbMOAA" target='_blank' rel="noreferrer">SREENATH VADASSERY(BEE)</a>
                 </Dropdown.Item>
                 <Dropdown.Item
                   css={{marginTop : 10}}
                   key="new"
                   icon={<Image src={'/assets/IconYoutube.png'} width="27" height="25"></Image>}
                 >
-                  <a href="https://youtube.com/channel/UClorWwmi7GhAt4W9I2z04gA" target='_blank'>FASEEN (BEE)</a>
+                  <a href="https://youtube.com/channel/UClorWwmi7GhAt4W9I2z04gA" target='_blank' rel="noreferrer">FASEEN (BEE)</a>
                 </Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>

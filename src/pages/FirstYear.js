@@ -33,7 +33,6 @@ export default function FirstYear() {
               </div>
             </a>
           </div>
-          <div className='text-xs font-semibold -mb-5'>*Your contributions are heartly welcomed in the Drives</div>
 
           <Footer />
         </div>
